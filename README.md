@@ -1,6 +1,6 @@
 # Hyperium is no longer available.
 
-Hyperium is no longer available, and we will no longer provide support for it. [Click here](https://https://github.com/asbyth/Hyperium-Replacements) to find a list of replacement Forge mods.
+Hyperium is no longer available, and they'll will no longer provide support for it. [Click here](https://https://github.com/asbyth/Hyperium-Replacements) to find a list of replacement Forge mods.
 
 ## Development Setup
 
