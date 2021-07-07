@@ -1,0 +1,284 @@
+#Hyperium Language File - Created by ScottehBoeh
+
+#Hyperium Disclaimers
+menu.left=Copyright 2019 Hyperium Dev Team
+menu.right=Not Affiliated with Mojang AB
+menu.credits=Created by the Hyperium Team
+
+#Hyperium Buttons
+button.menu.changebackground=Menu Background
+button.menu.cosmeticshop=Cosmetic Shop
+button.ingame.hyperiumsettings=Hyperium Settings
+button.ingame.hyperiumcredits=Contributors
+button.ingame.serverlist=Server List
+button.changebackground.seturl=Set URL
+button.changebackground.choosefile=Choose File
+button.changebackground.resetbackground=Reset Background
+
+#Hyperium Disclaimer
+disclaimer.line1=By continuing, you acknowledge this client is %s
+disclaimer.line1.bold=USE AT YOUR OWN RISK
+disclaimer.line2=The developers of Hyperium are not responsible for any damages or bans
+disclaimer.line3=to your account while using this client
+disclaimer.line4=By continuing you agree to the privacy policy %s
+disclaimer.line4.policylink=(https://hyperium.cc/#privacy)
+disclaimer.line5=Please click the button to confirm that you agree
+button.disclaimer.accept=Accept
+button.disclaimer.confirm=Confirm Accept
+
+#Hyperium Menu Strings
+menu.profile.credits=%s Credits
+
+#Hyperium Tabs
+tabs.searchbar=Search...
+tab.settings.name=SETTINGS
+tab.shop.name=SHOP
+
+#Hyperium Ingame Menu
+gui.ingamemenu.playercount=Hyperium Player Count:
+gui.ingamemenu.playercount.now=Online Now: %s
+gui.ingamemenu.playercount.lastday=Past Day: %s
+gui.ingamemenu.playercount.lastweek=Past Week: %s
+gui.ingamemenu.playercount.alltime=All Time: %s
+
+#Hyperium Change Background Text
+gui.changebackground.line1=Enter a URL below to change the background or choose file.
+gui.changebackground.line2=To make it show select "custom" in background settings.
+gui.changebackground.urlempty=The URL cannot be empty.
+gui.changebackground.invalidurl=Invalid PNG image url
+gui.changebackground.working=Working...
+gui.changebackground.done=Done!
+gui.changebackground.invalidpath=Invalid path
+gui.changebackground.unknownerror=Unknown error
+gui.changebackground.downloaderror=Error whilst downloading.
+gui.changebackground.selectimage=Select background image
+
+#Hyperium PurchaseCarousel Text
+gui.purchase.purchased=Purchased
+gui.purchase.purchase=Purchase
+gui.purchase.active=Active
+gui.purchase.inactive=Inactive
+gui.purchase.notpurchased=Not Purchased
+gui.purchase.clicktouse=Click to use
+gui.purchase.state=State
+
+#Hyperium Cosmetics Gui
+gui.cosmetics.purchase=Purchase cosmetics
+gui.cosmetics.refresh=Refresh purchases
+gui.cosmetics.credits=Credits
+gui.cosmetics.totalcredits=Total Credits: %s
+gui.cosmetics.remainingcredits=Remaining Credits: %s
+gui.cosmetics.purchased=Purchased Packages
+gui.cosmetics.disableparticles=Disable Particles
+gui.cosmetics.line1=You must purchase at least 1 particle and 1 animation for it to show
+gui.cosmetics.line2=The Double Twirl animation is free.
+gui.cosmetics.preview=Preview
+gui.cosmetics.red=Red
+gui.cosmetics.green=Green
+gui.cosmetics.blue=Blue
+gui.cosmetics.maxage=Particle life
+
+#Hyperium Shop Gui
+gui.shop.capes=View Capes
+gui.shop.browser=Open in browser
+gui.shop.purchasecredits=Purchase Credits
+gui.shop.refresh=Refresh
+gui.shop.credits=Credits
+gui.shop.cosmetics=Cosmetics
+gui.shop.description=Description: %s
+gui.shop.cost=Cost: %s
+gui.shop.status=Status:
+gui.shop.purchased=Purchased
+gui.shop.purchase=Purchase
+gui.shop.insufficientcredits=Insufficient Credits!
+gui.shop.loading.cosmetics=Loading cosmetics...
+gui.shop.loading.person=Loading person data...
+
+#Hyperium Settings Text
+gui.settings.discordrp=Discord RP
+gui.settings.fullbright=Fullbright
+gui.settings.romannumerals=Roman Numerals
+gui.settings.rpshowserver=RP Show Server
+gui.settings.compactchat=Compact Chat
+gui.settings.voidflickerfix=Void Flicker Fix
+gui.settings.fpslimiter=FPS Limiter (in Limbo)
+gui.settings.fastchat=Fast Chat
+gui.settings.shinypotions=Shiny Potions
+gui.settings.smartsounds=Smart Sounds
+gui.settings.numericping=Numeric Ping
+gui.settings.itemcounter=Show Amount of Currently Held Item
+gui.settings.showenchantmentsabovehotbar=Show Enchantments above hotbar
+gui.settings.showattackdamageabovehotbar=Show Attack Damage above hotbar
+gui.settings.armorprotectionpotentional=Show Armor Protection in Inventory
+gui.settings.armorprojectileprotpotentional=Show Armor Projectile Protection in Inventory
+gui.settings.hidecrosshairinf5=Hide Crosshair when in Third Person
+gui.settings.holdperspectivekey=Hold Perspective Key
+gui.settings.windowedfullscreen=Windowed Fullscreen
+gui.settings.uploadscreenshots=Upload Screenshots (by default)
+gui.settings.blurredguibackground=Blurred GUI Background
+gui.settings.screenshotonkill=Screenshot On Kill
+gui.settings.welcometothehypixelzoo="Welcome to the Hypixel Zoo!"
+gui.settings.showparticleauras=Show Particle Auras
+gui.settings.showcosmeticseverywhere=Show Cosmetics Everywhere
+gui.settings.17blockhitting=1.7 Blockhitting
+gui.settings.17bowposition=1.7 Bow Position
+gui.settings.17rodposition=1.7 Rod Position
+gui.settings.17redarmour=1.7 Red Armour (on hit)
+gui.settings.17eating=1.7 Eating
+gui.settings.17sneakinganimation=1.7 Sneaking Animation
+gui.settings.17blocking=1.7 Blocking
+gui.settings.17itemheld=1.7 Item Held
+gui.settings.17debug=1.7 Debug
+gui.settings.17health=1.7 Health
+gui.settings.customswordanimation=Custom Sword Animation
+gui.settings.fliptogglemode=Flip - Toggle Mode
+gui.settings.fliptype=Flip Type
+gui.settings.tposetogglemode=TPose - Toggle Mode
+gui.settings.background=Background
+gui.settings.transparentcontainerbackgrounds=Transparent Container Backgrounds
+gui.settings.particlesmode=Particles Mode
+gui.settings.maxparticles=Max Particles
+gui.settings.headitemscale=Head Item Scale
+gui.settings.particlesininventory=Particles In Inventory
+gui.settings.deadmau5ears=Deadmau5 Ears
+gui.settings.shownotificationcenter=Show Notification Center
+gui.settings.showconfirmationpopup=Show Confirmation Popup
+gui.settings.persistentchatmessages=Persistent Chat Messages
+gui.settings.friendsfirstintab=Friends First In Tab
+gui.settings.onlineindicator=Online Indicator
+gui.settings.pingondm=Ping On DM
+gui.settings.sprintandperspectivemessages=Sprint And Perspective Messages
+gui.settings.showdragonhead=Show Dragon Head
+gui.settings.wingsheight=Wings Height
+gui.settings.showwings=Show Wings
+gui.settings.wingsscale=Wings Scale
+gui.settings.fastworldswitching=Fast World Switching
+gui.settings.maxworldparticles=Max World Particles
+gui.settings.showparticlein1stperson=Show particle in 1st person
+gui.settings.motionblurenabled=Enabled
+gui.settings.motionblurintensity=Motion Blur Intensity
+gui.settings.showbackground=Show Background
+gui.settings.chroma=Chroma
+gui.settings.shadow=Shadow
+gui.settings.details=Details
+gui.settings.showuserdotsonnametags=Show user dots on nametags
+gui.settings.showhitdistances=Reach Display
+gui.settings.colortype=Color Type
+gui.settings.red=Red
+gui.settings.green=Green
+gui.settings.blue=Blue
+gui.settings.broadcastachievements=Broadcast Achievements
+gui.settings.showbutt=Show Butt
+gui.settings.sendguildwelcomemessage=Send guild welcome message
+gui.settings.itemphysics=Item Physics
+gui.settings.disable_dances=Disable Dances
+gui.settings.victoryroyale=Victory Royale
+gui.settings.hyperiumprefix=Show Hyperium Chat Prefix
+gui.settings.betterf1=Hide names in F1
+gui.settings.disableenchantglint=Disable Enchantment Glint
+gui.settings.disabletitles=Disable Titles
+gui.settings.thankwatchdog=Thank Watchdog
+gui.settings.fpslimiteramount=FPS Limit
+gui.settings.disablelightning=Disable Lightning Bolts
+gui.settings.disablearmorstands=Disable Armorstands
+gui.settings.disableitemframes=Disable Item Frames
+gui.settings.confirmdisconnect=Confirm Disconnect
+gui.settings.confirmquit=Confirm Quit
+gui.settings.hotbarkeys=Hotbar Keys
+gui.settings.clearglass=Clear Glass
+gui.settings.portalsounds=Disable Portal Sounds
+gui.settings.disableachievements=Disable Achievements
+gui.settings.disableshadowtext=Disable Shadowed Text
+gui.settings.shinypotions.matchcolor=Shiny Potions - Match Potion Color
+gui.settings.automyposition.enabled=Auto MyPosition
+gui.settings.automyposition.delay=Delay
+gui.settings.bossbarmod.bossbarall=Bossbar
+gui.settings.bossbarmod.bossbartext=Bossbar Text
+gui.settings.bossbarmod.bossbarhealthbar=Bossbar Health Bar
+gui.settings.bossbarmod.bossbarscale=Bossbar Scale
+gui.settings.bossbarmod.resetbossbar=Reset Bossbar
+gui.settings.hyperiumloadingscreen=Hyperium Loading Screen
+gui.settings.guialpha=Gui Transparency
+gui.settings.fireheight=Fire Height
+gui.settings.entityradiustoggle=Hide Entities within a radius
+gui.settings.entityradius=Hidden Entity Radius
+gui.settings.hyperiumtips=Hyperium Tips
+gui.settings.disableendportals=Disable End Portals
+gui.settings.hideleatherarmor=Disable Leather Armor
+gui.settings.sprintfovmodifier=Sprint Modifier
+gui.settings.bowfovmodifier=Bow Modifier
+gui.settings.speedfovmodifier=Speed Modifier
+gui.settings.slownessfovmodifier=Slowness Modifier
+
+#Settings Categories
+gui.category.general=General
+gui.category.improvements=Improvements
+gui.category.integrations=Integrations
+gui.category.cosmetics=Cosmetics
+gui.category.misc=Misc
+gui.category.mods=Mods
+gui.category.hypixel=Hypixel
+gui.category.addons=Addons
+
+#Settings Subcategories
+gui.subcategory.animations=Animations
+gui.subcategory.autotip=Autotip
+gui.subcategory.autogg=AutoGG
+gui.subcategory.reachdisplay=Reach Display
+gui.subcategory.vanillaenhancements=Vanilla Enhancements
+gui.subcategory.keystrokes=Keystrokes
+gui.subcategory.motionblur=Motion Blur
+gui.subcategory.glintcolorizer=Glint Colorizer
+gui.subcategory.itemphysics=Item Physics
+gui.subcategory.chunkanimator=Chunk Animator
+gui.subcategory.automypos=Auto MyPosition
+gui.subcategory.popupevents=Popup Events
+gui.subcategory.bossbarmod=Bossbar
+gui.subcategory.entityradius=Entity Radius
+gui.subcategory.fovmodifier=Fov Modifier
+gui.subcategory.other=Other
+
+#Hyperium Splash Progress
+splashprogress.startinggame=Starting Game...
+splashprogress.loadingresources=Loading Resources...
+splashprogress.creatingdisplay=Creating Display...
+splashprogress.initializingtextures=Initializing Textures...
+splashprogress.loadinghandlers=Loading Handlers...
+splashprogress.registeringlisteners=Registering Listeners...
+splashprogress.startinghyperium=Starting Hyperium...
+splashprogress.registeringconfiguration=Registering Configuration...
+splashprogress.registeringcommands=Registering Commands...
+splashprogress.loadingintegrations=Loading Integrations...
+splashprogress.finishing=Finishing...
+
+#Hyperium Misc Gui Text
+gui.namehistory.text=NAME HISTORY
+gui.confirmdisconnect.text=Are you sure you want to disconnect?
+gui.confirmquit.text=Are you sure you want to quit?
+
+#Hyperium Chat Message
+message.insufficientcredits=Insufficient credits
+message.attemptingpurchase=Attempting to purchase %s
+message.alreadypurchased=Already purchased %s
+message.invalidparticle=Invalid current particle type
+message.invalidanimation=Invalid animation type
+message.purchase=Purchase %s
+
+#Server Fast Join Customization
+gui.serverjoin.enterservername=Enter server name...
+gui.serverjoin.enterserverip=Enter server ip...
+gui.serverjoin.customizeserver=Customize Server
+
+#Main Menu Tips
+menu.hyperiumtip1=Most of our HUD items can be found in ChromaHUD!
+menu.hyperiumtip2=Change your keybinds by going to the Controls menu and clicking the Hyperium Binds button!
+menu.hyperiumtip3=Make sure to join our Discord for support, news, and more! discord.gg/Sk1er
+menu.hyperiumtip4=Hyperium is Open Source! Check out the source code at github.com/hyperiumclient!
+menu.hyperiumtip5=Wish to make an addon? Check out an example at github.com/hyperiumclient/addon-workspace!
+menu.hyperiumtip6=Addons are additions to the client created by the community!
+menu.hyperiumtip7=You cannot use Forge mods with Hyperium!
+menu.hyperiumtip8=If you encounter any issues, please let us know at discord.gg/Sk1er!
+menu.hyperiumtip9=For a list of commands, type / then hit tab!
+menu.hyperiumtip10=You can purchase cosmetics at purchase.sk1er.club!
+menu.hyperiumtip11=Performance issues? Check out the Improvements category of the Gui!
+menu.hyperiumtip12=You can change what server appears on the main menu by holding shift and clicking the button!
